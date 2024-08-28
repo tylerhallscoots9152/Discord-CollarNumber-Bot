@@ -1,0 +1,8 @@
+  // template made by xenos0904
+{
+    "token": "VeryRealBotToken", // paste your bot token here
+    "clientId": "VeryRealBotID", // paste your client id here
+    "roleIds": [
+        "Paste_You_Role_ID_1", // paste your verified role id
+    ]
+}
